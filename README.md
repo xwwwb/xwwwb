@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm 雨奇晴好</h1>
 <h3 align="center">正在学习前端的大二学生</h3>
+<p>为什么我称呼自己 雨奇晴好 呢</p>
+
+<p>哈哈哈没什么 这是原神中一名叫 枫原万叶 的角色的 特色料理 </p>
+
+<p>喜欢万叶 而且喜欢这四个字</p>
+
+<h3 align="left">配置文件</h3>
 
 - 🔭 最喜欢的框架 **React**
 
@@ -9,7 +16,7 @@
 
 - 🤝 第二喜欢的软件 **Chrome**
 
-- 👨‍💻 其他爱好 [Python Linux DevOps](Python Linux DevOps)
+- 👨‍💻 其他爱好 Python Linux DevOps
 
 - 📝 博客 [www.xwwwb.com](www.xwwwb.com)
 
