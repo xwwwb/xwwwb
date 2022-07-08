@@ -16,7 +16,7 @@
 
 - 🤝 第二喜欢的软件 **Chrome**
 
-- 👨‍💻 其他爱好 Python Linux DevOps
+- 👨‍💻 其他爱好 Python Linux DevOps Unity PS macOS 客户端开发
 
 - 📝 博客 [www.xwwwb.com](www.xwwwb.com)
 
