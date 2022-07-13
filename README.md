@@ -17,7 +17,7 @@
 
 - 🤝 第二喜欢的软件 **Chrome**
 
-- 👨‍💻 其他爱好 [Python Linux DevOps Unity VR PS 客户端开发](Python Linux DevOps Unity VR PS 客户端开发)
+- 👨‍💻 其他爱好 Python Linux DevOps Unity VR PS 客户端开发
 
 - 📝 博客 [www.xwwwb.com](www.xwwwb.com)
 
