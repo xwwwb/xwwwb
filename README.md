@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 雨奇晴好</h1>
-<h3 align="center">正在准备考研的大三学生</h3>
+<h3 align="center">正在准备留学的大三学生</h3>
 
 <p>为什么我称呼自己 雨奇晴好 呢</p>
 
